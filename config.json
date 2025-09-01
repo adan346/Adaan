@@ -6,7 +6,7 @@
     "allowInbox": true,
     "autoClean": false,
     "adminOnly": true,
-    "keyAdminOnly": "ASIFxMASHIA",
+    "keyAdminOnly": "Haseen",
     "commandDisabled": [
         "callad.js",
         "autotime.js"
@@ -20,33 +20,33 @@
     "GENDER": "𝗠𝗮𝗟𝗲",
     "CREATORLINK": "https://www.facebook.com/profile.php?id=100083683586430",
     "CREATORID": "100083683586430",
-    "BOTNAME": "𒆜 JaNu╰‿╯",
+    "BOTNAME": "𒆜 baby╰‿╯",
     "PREFIX": "*",
     "OTHERBOT": [
-        "100083683586430",
-        "100029722602303",
+        "",
+        "61553565459843",
         "",
         "",
         "",
         ""
     ],
     "UNSENTVIP": [
-        "100083683586430",
-        "100029722602303",
+        "",
+        "61553565459843",
         "",
         "",
         ""
     ],
     "ADMINBOT": [
-        "100083683586430",
-        "100029722602303",
+        "",
+        "61553565459843",
         "",
         "",
         ""
     ],
     "GOD": [
-        "100083683586430",
-        "100029722602303",
+        "",
+        "61553565459843",
         "",
         ""
     ],
